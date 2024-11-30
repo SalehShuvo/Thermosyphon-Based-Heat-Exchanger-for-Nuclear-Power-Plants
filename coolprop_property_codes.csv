@@ -1,0 +1,18 @@
+Property,Short Code,Unit
+Density,D,kg/m³
+Dynamic Viscosity,V,Pa·s
+Kinematic Viscosity,O,m²/s
+Specific Heat (Constant P),C,J/(kg·K)
+Specific Heat (Constant V),CVMASS,J/(kg·K)
+Thermal Conductivity,L,W/(m·K)
+Prandtl Number,PRANDTL,Dimensionless
+Enthalpy,H,J/kg
+Entropy,S,J/(kg·K)
+Internal Energy,U,J/kg
+Specific Volume,VOLUME,m³/kg
+Compressibility Factor,Z,Dimensionless
+Speed of Sound,A,m/s
+Surface Tension,I,N/m
+Saturation Pressure,PSAT,Pa
+Saturation Temperature,TSAT,K
+Quality (Vapor Fraction),Q,Dimensionless (0 to 1)
